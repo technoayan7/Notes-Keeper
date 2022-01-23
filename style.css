@@ -1,0 +1,53 @@
+h3 {
+  font-family: "Lobster", cursive;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Permanent Marker", cursive;
+  margin-left: 1%;
+}
+
+.card {
+  border-radius: 40px;
+  box-shadow: 2px 2px 10px 2px rgba(61, 61, 61, 0.1),
+    -2px -2px 20px 2px rgba(87, 87, 87, 0.2);
+}
+.btn.btn-primary {
+  float: right;
+  margin: auto 0% -7% 0;
+  border-radius: 100%;
+}
+
+.btn.btn-primary.del {
+  float: right;
+  margin: 0 0 0 0;
+  border-radius: 100%;
+  position: relative;
+}
+
+#notes {
+  margin: 5% 0 0 0;
+}
+
+.navbar {
+  box-shadow: 6px 6px 6px 0 rgba(184, 184, 184, 0.808);
+  margin: 0 0 3% 0;
+}
+#back {
+  background-color: rgb(236, 236, 235);
+}
+.container {
+  margin: 50% 0 0 0;
+}
+::-webkit-input-placeholder {
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+}
+textarea {
+  font-family: "Lobster", cursive;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Oleo Script", cursive;
+  font-family: "Permanent Marker", cursive;
+}
